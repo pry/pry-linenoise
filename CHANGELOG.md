@@ -1,0 +1,4 @@
+Pry Linenoise Changelog
+=======================
+
+### master
