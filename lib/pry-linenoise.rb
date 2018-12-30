@@ -1,0 +1,3 @@
+# Linenoise
+module PryLinenoise
+end

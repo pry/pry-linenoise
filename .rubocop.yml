@@ -3,3 +3,7 @@
 AllCops:
   DisplayCopNames: true
   DisplayStyleGuide: true
+
+Naming/FileName:
+  Exclude:
+    - 'lib/pry-linenoise.rb'
