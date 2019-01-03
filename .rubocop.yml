@@ -7,3 +7,9 @@ AllCops:
 Naming/FileName:
   Exclude:
     - 'lib/pry-linenoise.rb'
+
+Layout/IndentHeredoc:
+  Enabled: false
+
+Gemspec/RequiredRubyVersion:
+  Enabled: false

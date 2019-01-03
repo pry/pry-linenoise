@@ -18,4 +18,6 @@ DESC
   s.test_files   = Dir.glob('spec/**/*')
 
   s.required_ruby_version = '>= 2.1'
+
+  s.add_dependency 'linenoise', '~> 1.1'
 end
