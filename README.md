@@ -44,4 +44,4 @@ License
 
 The project uses the MIT License. See LICENSE.md for details.
 
-[linenoise-rb]: https://github.com/pry/pry-linenoise
+[linenoise-rb]: https://github.com/kyrylo/linenoise-rb
